@@ -52,12 +52,19 @@ public class GrammarTrainerSave implements Save {
             while (s.hasNext() && !(s.hasNextInt())) {
                 String wort = s.nextLine();
                 String url = s.nextLine();
-                WordPair wp = new WordPair(wort, url);
+                WordPair wp= new WordPair(wort, url);
                 t.addWordpair(wp);
             }
+            int right=0;
+            int wrong=0;
+            right= s.nextInt();
+            s.nextLine();
+            wrong= s.nextInt();
+            t.setRight(right);
+            t.setWrong(wrong);
+            return t;
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
-        return null;
     }
 }
