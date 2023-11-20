@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73142b2c-740a-4975-8646-6c9c529213d7" name="Changes" comment="2 Commit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/GrammarTrainerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/GrammarTrainerController.java" afterDir="false" />
+    <list default="true" id="73142b2c-740a-4975-8646-6c9c529213d7" name="Changes" comment="4 Commit &#10;Error gefixed, UML erstellt">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Persistence/GrammarTrainerSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Persistence/Save.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,6 +60,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lisja\IdeaProjects\Lisjak_GK9a.1\src\main\java\Controller" />
       <recent name="C:\Users\lisja\IdeaProjects\Lisjak_GK9a.1\src\main\java\Model" />
     </key>
   </component>
@@ -93,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700427514326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="4 Commit &#10;Error gefixed, UML erstellt">
+      <created>1700481152430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700481152430</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Commit" />
     <MESSAGE value="2 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 Commit" />
+    <MESSAGE value="4 Commit &#10;Error gefixed, UML erstellt" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 Commit &#10;Error gefixed, UML erstellt" />
   </component>
 </project>
