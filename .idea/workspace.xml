@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73142b2c-740a-4975-8646-6c9c529213d7" name="Changes" comment="2 Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Diagramm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/View/GrammarTrainerFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/View/GrammarTrainerPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/GrammarTrainerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/GrammarTrainerController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
