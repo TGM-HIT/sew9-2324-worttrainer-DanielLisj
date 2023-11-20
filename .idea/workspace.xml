@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73142b2c-740a-4975-8646-6c9c529213d7" name="Changes" comment="4 Commit &#10;Error gefixed, UML erstellt">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Persistence/GrammarTrainerSave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Persistence/Save.java" afterDir="false" />
+    <list default="true" id="73142b2c-740a-4975-8646-6c9c529213d7" name="Changes" comment="5 Commit &#10;UML für Persistence erstellt, save implementiert">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Persistence/GrammarTrainerSave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Persistence/GrammarTrainerSave.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lisja\IdeaProjects\Lisjak_GK9a.1\src\main\java\Persistence" />
       <recent name="C:\Users\lisja\IdeaProjects\Lisjak_GK9a.1\src\main\java\Controller" />
       <recent name="C:\Users\lisja\IdeaProjects\Lisjak_GK9a.1\src\main\java\Model" />
     </key>
@@ -104,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700481152430</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5 Commit &#10;UML für Persistence erstellt, save implementiert">
+      <created>1700485864547</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700485864547</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +134,7 @@
     <MESSAGE value="1 Commit" />
     <MESSAGE value="2 Commit" />
     <MESSAGE value="4 Commit &#10;Error gefixed, UML erstellt" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 Commit &#10;Error gefixed, UML erstellt" />
+    <MESSAGE value="5 Commit &#10;UML für Persistence erstellt, save implementiert" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 Commit &#10;UML für Persistence erstellt, save implementiert" />
   </component>
 </project>
