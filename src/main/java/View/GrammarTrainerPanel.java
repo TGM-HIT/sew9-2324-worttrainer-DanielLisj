@@ -9,8 +9,7 @@ import java.net.URL;
 
 /**
  * Das Panel für die GUI
- * @author Eric Dreier
- * @version 18-10-2023
+ * @author Daniel Lisjak
  */
 public class GrammarTrainerPanel extends JPanel {
 
@@ -42,8 +41,8 @@ public class GrammarTrainerPanel extends JPanel {
         JPanel menu = new JPanel();
         menu.setLayout(new GridLayout(5,2,5,5));
         JLabel l1 = new JLabel("Statistik");
-        JLabel l2 = new JLabel("Richtige W\u00f6rter");
-        JLabel l3 = new JLabel("Falsche W\u00f6rter");
+        JLabel l2 = new JLabel("Richtige Wörter");
+        JLabel l3 = new JLabel("Falsche Wörter");
         JLabel l4 = new JLabel("Versuche");
         right = new JLabel("0",SwingConstants.CENTER);
         wrong = new JLabel("0",SwingConstants.CENTER);
