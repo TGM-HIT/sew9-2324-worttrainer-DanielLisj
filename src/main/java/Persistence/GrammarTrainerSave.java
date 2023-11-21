@@ -16,18 +16,17 @@ public class GrammarTrainerSave implements Save {
 
     /**
      * Diese Klasse speichert die Wortpaare aus einem Trainer in ein file.
-     *
      * @param filename Der name des files
-     * @param trainer  Der trainer, aus dem die Daten in das File gespeichert werden sollen
+     * @param trainer Der trainer, aus dem die Daten in das File gespeichert werden sollen
      */
     @Override
     public void save(String filename, GrammarTrainer trainer) {
         File f = new File(filename);
         PrintWriter out = null;
 
-        try {
+        try{
             out = new PrintWriter(f);
-            for (int i = 0; i < trainer.getPairList().size(); i++) {
+            for(int i = 0;i<trainer.getPairList().size();i++)	{
                 WordPair current = trainer.getWordpair(i);
                 out.println(current.getWord());
                 out.println(current.getURL());
@@ -35,16 +34,21 @@ public class GrammarTrainerSave implements Save {
 
             out.println(trainer.getRight());
             out.println(trainer.getWrong());
-            out.println(trainer.getRight() + trainer.getWrong());
+            out.println(trainer.getRight()+trainer.getWrong());
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } finally {
-            if (out != null) {
+            if(out!=null)	{
                 out.close();
             }
         }
     }
 
+    /**
+     * Diese Methode liest aus einem File nach einem festgelegten Muster Daten aus
+     * @param filename Der name des Files
+     * @return Das GrammarTrainer Objekt, in dem sich die Daten aus dem File befinden
+     */
     @Override
     public GrammarTrainer load(String filename) {
         GrammarTrainer t = new GrammarTrainer();
