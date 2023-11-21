@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73142b2c-740a-4975-8646-6c9c529213d7" name="Changes" comment="9 Commit &#10;Controller fertig">
-      <change afterPath="$PROJECT_DIR$/src/test/java/GrammarTrainerTest.java" afterDir="false" />
+    <list default="true" id="73142b2c-740a-4975-8646-6c9c529213d7" name="Changes" comment="11 Commit &#10;grammarTrainerTest implementiert">
       <change afterPath="$PROJECT_DIR$/src/test/java/WordPairTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lisja\IdeaProjects\Lisjak_GK9a.1\src\main\java" />
       <recent name="C:\Users\lisja\IdeaProjects\Lisjak_GK9a.1\src\main\java\Persistence" />
       <recent name="C:\Users\lisja\IdeaProjects\Lisjak_GK9a.1\src\main\java\Controller" />
       <recent name="C:\Users\lisja\IdeaProjects\Lisjak_GK9a.1\src\main\java\Model" />
@@ -87,7 +86,7 @@
       <workItem from="1700506728698" duration="630000" />
       <workItem from="1700511331566" duration="2354000" />
       <workItem from="1700516940701" duration="139000" />
-      <workItem from="1700556505241" duration="374000" />
+      <workItem from="1700556505241" duration="1126000" />
     </task>
     <task id="LOCAL-00001" summary="1 Commit">
       <created>1696423211860</created>
@@ -145,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700517070518</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="10 Commit &#10;Final Diagram">
+      <created>1700556962190</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700556962190</updated>
+    </task>
+    <task id="LOCAL-00010" summary="11 Commit &#10;grammarTrainerTest implementiert">
+      <created>1700560540822</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700560540822</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +184,8 @@
     <MESSAGE value="7 Commit &#10;load fertig" />
     <MESSAGE value="8 Commit &#10;Controller angefangen" />
     <MESSAGE value="9 Commit &#10;Controller fertig" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 Commit &#10;Controller fertig" />
+    <MESSAGE value="10 Commit &#10;Final Diagram" />
+    <MESSAGE value="11 Commit &#10;grammarTrainerTest implementiert" />
+    <option name="LAST_COMMIT_MESSAGE" value="11 Commit &#10;grammarTrainerTest implementiert" />
   </component>
 </project>
