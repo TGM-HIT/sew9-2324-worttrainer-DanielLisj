@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class GrammarTrainerTest {
 
-    @DisplayName("Testen ob man Wordpair hinufügen kann")
+    @DisplayName("Testen ob man Wordpair hinufuegen kann")
     @Test
     public void testAddPair()   {
         GrammarTrainer g = new GrammarTrainer();
