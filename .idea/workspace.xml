@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73142b2c-740a-4975-8646-6c9c529213d7" name="Changes" comment="9 Commit &#10;Controller fertig">
-      <change afterPath="$PROJECT_DIR$/src/test/java/GrammarTrainerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WordPairTest.java" afterDir="false" />
+    <list default="true" id="73142b2c-740a-4975-8646-6c9c529213d7" name="Changes" comment="12 Commit &#10;grammarTrainerTest implementiert">
+      <change afterPath="$PROJECT_DIR$/src/test/GrammarTrainerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/WordpairTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
