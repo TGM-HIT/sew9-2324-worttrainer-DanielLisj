@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73142b2c-740a-4975-8646-6c9c529213d7" name="Changes" comment="13 Commit &#10;ReadMe geschrieben">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/GrammarTrainerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/GrammarTrainerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Persistence/GrammarTrainerSave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Persistence/GrammarTrainerSave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/View/GrammarTrainerPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/View/GrammarTrainerPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,8 @@
       <workItem from="1700511331566" duration="2354000" />
       <workItem from="1700516940701" duration="139000" />
       <workItem from="1700556505241" duration="374000" />
-      <workItem from="1700609471088" duration="1555000" />
+      <workItem from="1700609471088" duration="1746000" />
+      <workItem from="1700655184560" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="1 Commit">
       <created>1696423211860</created>
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700561638923</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="13 Commit &#10;ReadMe geschrieben">
+      <created>1700611186929</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700611186929</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +194,7 @@
     <MESSAGE value="9 Commit &#10;Controller fertig" />
     <MESSAGE value="11 Commit &#10;grammarTrainerTest implementiert" />
     <MESSAGE value="12 Commit &#10;WordpairTest implementiert" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 Commit &#10;WordpairTest implementiert" />
+    <MESSAGE value="13 Commit &#10;ReadMe geschrieben" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 Commit &#10;ReadMe geschrieben" />
   </component>
 </project>

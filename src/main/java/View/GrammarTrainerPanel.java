@@ -41,8 +41,8 @@ public class GrammarTrainerPanel extends JPanel {
         JPanel menu = new JPanel();
         menu.setLayout(new GridLayout(5,2,5,5));
         JLabel l1 = new JLabel("Statistik");
-        JLabel l2 = new JLabel("Richtige W\u00f6rter");
-        JLabel l3 = new JLabel("Falsche W\u00f6rter");
+        JLabel l2 = new JLabel("Richtige Woerter");
+        JLabel l3 = new JLabel("Falsche Woerter");
         JLabel l4 = new JLabel("Versuche");
         right = new JLabel("0",SwingConstants.CENTER);
         wrong = new JLabel("0",SwingConstants.CENTER);
@@ -60,7 +60,7 @@ public class GrammarTrainerPanel extends JPanel {
         menu.add(l4);
         menu.add(counter);
 
-        reset = new JButton("zurücksetzen");
+        reset = new JButton("zuruecksetzen");
         reset.setActionCommand("reset");
         reset.addActionListener(controller);
 
